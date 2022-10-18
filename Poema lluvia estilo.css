@@ -1,0 +1,31 @@
+body {
+    background-image: url(gamis-katun.jpg);
+    font-size: 100%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    width: 50%;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(33, 86, 117);
+    border-radius: 20px;
+    border-width: 3px;  
+    margin-left: 25%;
+    margin-top: 6.0%;
+    border
+}
+div{
+    background-color: #66d9ff;
+    border-radius: 20px;
+    border-width: 3px;  
+    padding: 9%;
+}
+p1{
+    font-size: 300%;
+   
+}
+p2{
+    font-size: 150%;
+    text-align:end;
+    
+
+}
